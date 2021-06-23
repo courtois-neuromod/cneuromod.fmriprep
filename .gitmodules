@@ -10,3 +10,7 @@
 	path = movie10
 	url = ./movie10
 	datalad-id = 3f0351b0-6d9f-4d05-841e-040cbe830bc7
+[submodule "friends"]
+	path = friends
+	url = ./friends
+	datalad-id = cbfd6482-5670-4f39-ba1b-9623f1f460b8
