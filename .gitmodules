@@ -2,3 +2,7 @@
 	path = harrypotter
 	url = ./harrypotter
 	datalad-id = e7c71cca-4d8e-4bd1-b8c7-5fe43e44c1b9
+[submodule "hcptrt"]
+	path = hcptrt
+	url = ./hcptrt
+	datalad-id = 167b1afc-ab5f-473b-932b-7e7a28c37dc3
