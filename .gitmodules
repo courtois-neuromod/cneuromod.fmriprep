@@ -6,3 +6,7 @@
 	path = hcptrt
 	url = ./hcptrt
 	datalad-id = 167b1afc-ab5f-473b-932b-7e7a28c37dc3
+[submodule "movie10"]
+	path = movie10
+	url = ./movie10
+	datalad-id = 3f0351b0-6d9f-4d05-841e-040cbe830bc7
