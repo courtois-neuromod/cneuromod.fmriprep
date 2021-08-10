@@ -14,3 +14,7 @@
 	path = friends
 	url = ./friends
 	datalad-id = cbfd6482-5670-4f39-ba1b-9623f1f460b8
+[submodule "retinotopy"]
+	path = retinotopy
+	url = ./retinotopy
+	datalad-id = 48398cbc-de88-4e06-ad53-09fec11fe65b
