@@ -24,3 +24,7 @@
 	datalad-id = 81d8c126-b10f-4e8b-9eab-6825964c8552
 [submodule "things/sourcedata/smriprep"]
 	datalad-url = ..//smriprep/
+[submodule "gamepad"]
+	path = gamepad
+	url = ./gamepad
+	datalad-id = e8f3cb93-15a8-41c5-9d63-33cb5b4bf143
