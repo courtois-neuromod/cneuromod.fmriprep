@@ -1,20 +1,20 @@
 [submodule "harrypotter"]
 	path = harrypotter
-	url = ./harrypotter
+	url = git@github.com:courtois-neuromod/harrypotter.fmriprep.git
 	datalad-id = e7c71cca-4d8e-4bd1-b8c7-5fe43e44c1b9
 [submodule "hcptrt"]
 	path = hcptrt
-	url = ./hcptrt
+	url = git@github.com:courtois-neuromod/hcptrt.fmriprep.git
 	datalad-id = 167b1afc-ab5f-473b-932b-7e7a28c37dc3
 [submodule "movie10"]
 	path = movie10
-	url = ./movie10
+	url = git@github.com:courtois-neuromod/movie10.fmriprep.git
 	datalad-id = 3f0351b0-6d9f-4d05-841e-040cbe830bc7
 [submodule "friends"]
 	path = friends
-	url = ./friends
+	url = git@github.com:courtois-neuromod/friends.fmriprep.git
 	datalad-id = cbfd6482-5670-4f39-ba1b-9623f1f460b8
 [submodule "shinobi"]
 	path = shinobi
-	url = ./shinobi
+	url = git@github.com:courtois-neuromod/shinobi.fmriprep.git
 	datalad-id = 99a5a823-59ed-4f4e-9fbd-971bb5e7d1d5
