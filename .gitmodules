@@ -28,3 +28,8 @@
 	url = git@github.com:courtois-neuromod/gamepad.fmriprep.git
 	datalad-id = e8f3cb93-15a8-41c5-9d63-33cb5b4bf143
 	datalad-url = git@github.com:courtois-neuromod/gamepad.fmriprep.git
+[submodule "mario"]
+	path = mario
+	url = git@github.com:courtois-neuromod/mario.fmriprep.git
+	datalad-id = c1c43979-a83d-42b7-9508-4fface179af8
+	datalad-url = git@github.com:courtois-neuromod/mario.fmriprep.git
