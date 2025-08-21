@@ -33,3 +33,8 @@
 	url = git@github.com:courtois-neuromod/mario.fmriprep.git
 	datalad-id = c1c43979-a83d-42b7-9508-4fface179af8
 	datalad-url = git@github.com:courtois-neuromod/mario.fmriprep.git
+[submodule "retinotopy"]
+	path = retinotopy
+	url = git@github.com:courtois-neuromod/retinotopy.fmriprep.git
+	datalad-id = 48398cbc-de88-4e06-ad53-09fec11fe65b
+	datalad-url = git@github.com:courtois-neuromod/retinotopy.fmriprep.git
