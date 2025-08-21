@@ -23,3 +23,8 @@
 	url = git@github.com:courtois-neuromod/floc.fmriprep.git
 	datalad-id = 237e4de8-a4d4-42aa-8814-ab0f2f6c331c
 	datalad-url = git@github.com:courtois-neuromod/floc.fmriprep.git
+[submodule "gamepad"]
+	path = gamepad
+	url = git@github.com:courtois-neuromod/gamepad.fmriprep.git
+	datalad-id = e8f3cb93-15a8-41c5-9d63-33cb5b4bf143
+	datalad-url = git@github.com:courtois-neuromod/gamepad.fmriprep.git
